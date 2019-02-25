@@ -1,4 +1,7 @@
-<?php phpinfo();
+<?php 
+echo "first day github";
+
+
 
 
 
